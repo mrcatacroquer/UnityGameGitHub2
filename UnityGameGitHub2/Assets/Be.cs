@@ -6,7 +6,7 @@ public class Be : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Self.Destroy.Wring;		
 	}
 	
 	// Update is called once per frame
