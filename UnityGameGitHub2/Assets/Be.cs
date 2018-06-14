@@ -6,7 +6,7 @@ public class Be : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		this.GetOut ();
 	}
 	
 	// Update is called once per frame
